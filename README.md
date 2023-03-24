@@ -23,7 +23,7 @@
   
 </div>
 
- # tenho interesse na área de inteligência artificial, dado o meu apreço pela tecnologia 🤖.
+ tenho interesse na área de inteligência artificial, dado o meu apreço pela tecnologia 🤖.
 
 
 
