@@ -2,7 +2,7 @@
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel_rodrigues5/) 
-![linkedin](www.linkedin.com/in/emanuel-rodrigues-4a76361b1)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emanuel-rodrigues-4a76361b1)
 
 ![emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanueldiv1&show_icons=true&theme=dark)
 
